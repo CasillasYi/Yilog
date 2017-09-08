@@ -1,2 +1,2 @@
 # Yilog
-Yilog comment page
+> This repo only used for Yilog comment
